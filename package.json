@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@babel/helper-builder-react-jsx": "^7.12.13",
+    "@babel/helper-define-map": "^7.12.13",
     "@emotion/react": "^11.1.5",
     "@swyx/hooks": "^0.0.20",
     "@types/aws-lambda": "^8.10.72",
